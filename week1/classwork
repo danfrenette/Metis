@@ -1,0 +1,20 @@
+class Dan
+def approach
+puts "HEY! You guys know how to party!"
+end
+def kino
+puts "*hand of god*"
+end
+end
+class TylerDurden
+def crushItAtLife
+puts "ADMIT THAT YOU SUCK, GO OUT, AND FUCKING CRUSH IT!"
+end
+end
+Do = Dan.new
+Do.approach
+Do.kino
+TDo = TylerDurden.new
+TDo.crushItAtLife
+Kernel.puts "this line of code was written fairly inefficiently."
+

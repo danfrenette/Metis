@@ -1,0 +1,21 @@
+puts "I <3 you sweet heart"
+my_string = "This is Exile"
+girlfriend ="Kristin"
+puts girlfriend + " was everything to me two years ago."
+girlfriend ="Mini Goober"
+puts "But now " + girlfriend +" is my whole world."
+var1 = 2
+var2 = "1"
+puts var1.to_s + var2
+puts var1 + var2.to_f
+puts "1".to_f
+puts "1".to_i
+puts "Hello there! What's your name?"
+name = gets.chomp
+puts "Oh...you're name is..."+name+"? That's an...interesting choice."
+puts "Well...great getting to know you " +name+"...I gotta get going."
+puts "Hey, what's your favorite number?"
+number = gets.chomp
+puts "Huh...okay well " + number + " is a pretty decent number."
+better_number = number.to_i + 1
+puts "Still, how about " + better_number.to_s + "?! That's an even BIGGER, BETTER NUMBER!!!"

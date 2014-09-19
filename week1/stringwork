@@ -1,0 +1,2 @@
+simpleRequest = gets.chomp
+puts "WHADDYA MEAN \"" + simpleRequest.upcase + "?!?!?!\" YOU'RE FIRED!!!"

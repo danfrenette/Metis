@@ -1,0 +1,10 @@
+input1 = []
+input = "x"
+
+while input != ""
+  input = gets.chomp
+  input1.push(input)
+end
+puts
+input1.pop
+puts input1.sort

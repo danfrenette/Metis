@@ -1,0 +1,3 @@
+database = { "Artist Name" => ["Songs", "More Songs"] }
+database["Other Artist"] = ["More songs", "still more songs"]
+

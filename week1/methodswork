@@ -1,0 +1,4 @@
+def trippleCalc num
+  num = gets.chomp
+  puts num*3.to_s
+end

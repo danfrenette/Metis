@@ -1,0 +1,22 @@
+bottles = 99
+  while bottles >= 0
+  if bottles == 99
+   puts "99 bottles of beer on the wall."
+   puts "99 bottles of beer."
+   puts "Take one down, pass it around."
+  elsif bottles > 1
+   puts bottles.to_s + " bottles of beer on the wall."
+   puts
+   puts bottles.to_s + " bottles of beer on the wall."
+   puts bottles.to_s + " bottles of beer"
+   puts "Take one down, pass it around,"
+  elsif bottles > 0
+   puts "1 bottle of beer on the wall"
+   puts 
+   puts "1 bottle of beer on the wall."
+   puts "1 bottle of beer."
+   puts "Take one down, pass it around, you're all fucking dead from alchol
+poisoning, you readneck pieces of shit."
+  end
+  bottles = bottles-1
+end

@@ -1,0 +1,8 @@
+people = ["Richard", "Chris", "Dan"]
+puts people
+puts
+puts people.to_s
+puts
+puts people.join(", ")
+puts
+puts people.join(" :3 ") + " :D"
